@@ -1,0 +1,67 @@
+body
+{
+    background-color:aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main
+{
+    background-color: white;
+    width: 500px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+}
+
+p
+{
+    color:red;
+}
+
+.a
+{
+    color:beige;
+}
+
+#b
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.na
+{
+    width: 300px;
+    height: 20px;
+}
+
+.ph
+{
+    width: 300px;
+    height: 20px;
+}
+
+.pass
+{
+    width: 300px;
+    height: 20px;
+}
+
+.em
+{
+    width: 300px;
+    height: 20px;
+}
+
+.pass
+{
+    width: 300px;
+    height: 20px;
+}
+
+.but
+{
+    width: 300px;
+    height: 30px;
+    background-color: aqua;
+    color: white;
+}

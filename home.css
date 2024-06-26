@@ -1,0 +1,29 @@
+.topnav
+{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height:30px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.home
+{
+    width: 70px;
+    background-color: green;
+    padding: 10px;
+    padding-bottom: 12px;
+}
+.news
+{
+    padding: 10px;
+}
+.contact
+{
+    padding: 10px;
+}
+.about
+{
+    padding: 10px;
+}
